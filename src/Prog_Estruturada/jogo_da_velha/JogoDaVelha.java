@@ -1,4 +1,4 @@
-package jogo_da_velha;
+package Prog_Estruturada.jogo_da_velha;
 
 import java.io.*;
 import java.util.Scanner;

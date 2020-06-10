@@ -1,4 +1,4 @@
-package pe_aula12.end;
+package Prog_Estruturada.aula12.end;
 
 import java.util.Scanner;
 

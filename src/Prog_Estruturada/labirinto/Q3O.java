@@ -1,4 +1,4 @@
-package labirinto;
+package Prog_Estruturada.labirinto;
 
 public class Q3O {
 

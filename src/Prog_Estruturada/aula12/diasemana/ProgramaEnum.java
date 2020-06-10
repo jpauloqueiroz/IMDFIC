@@ -1,4 +1,4 @@
-package pe_aula12.diasemana;
+package Prog_Estruturada.aula12.diasemana;
 
 import java.util.Scanner;
 

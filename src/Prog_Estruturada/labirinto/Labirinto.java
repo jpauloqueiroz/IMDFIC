@@ -1,4 +1,4 @@
-package labirinto;
+package Prog_Estruturada.labirinto;
 
 public class Labirinto {
     private static final char PAREDE_VERTICAL = '|';

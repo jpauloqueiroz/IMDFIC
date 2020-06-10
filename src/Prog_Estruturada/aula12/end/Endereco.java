@@ -1,4 +1,4 @@
-package pe_aula12.end;
+package Prog_Estruturada.aula12.end;
 
 public class Endereco {
     public String rua;

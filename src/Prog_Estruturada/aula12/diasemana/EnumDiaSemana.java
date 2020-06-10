@@ -1,4 +1,4 @@
-package pe_aula12.diasemana;
+package Prog_Estruturada.aula12.diasemana;
 
 public enum EnumDiaSemana {
     DOMINGO, SEGUNDA_FEIRA, TERCA_FEIRA,
