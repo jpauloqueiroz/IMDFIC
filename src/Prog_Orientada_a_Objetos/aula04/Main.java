@@ -31,6 +31,10 @@ public class Main{
         pessoa.frearCarro();
         pessoa.desligarCarro();
 
+        System.out.println(pessoa.getCarro());
+        System.out.println(pessoa.getIdade());
+        System.out.println(pessoa.getNome());
+
 
     }
 }

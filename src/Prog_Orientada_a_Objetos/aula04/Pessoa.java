@@ -1,9 +1,9 @@
 package Prog_Orientada_a_Objetos.aula04;
 
 public class Pessoa {
-    int idade;
-    String nome;
-    Carro carro;
+    private int idade;
+    private String nome;
+    private Carro carro;
 
     void ligarCarro(){
         carro.ligar();
@@ -24,19 +24,22 @@ public class Pessoa {
     Carro getCarro(){
         return carro;
     }
+
     void setCarro(Carro carro){
         this.carro = carro;
     }
 
-    public void setIdade(int idade) {
+    void setIdade(int idade) {
         this.idade = idade;
     }
 
-    public void setNome(String nome) {
+    void setNome(String nome) {
         this.nome = nome;
     }
 
-    public String getNome() {
+    int getIdade(){return this.idade;}
+
+    String getNome() {
         return this.nome;
     }
 }

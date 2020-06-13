@@ -33,6 +33,7 @@ public class Carro {
     Pessoa getDono(){
         return dono;
     }
+
     void setDono(Pessoa dono){
         this.dono = dono;
     }
@@ -64,6 +65,7 @@ public class Carro {
     int getNumPortas(){
         return numPortas;
     }
+
     void setNumPortas(int numPortas){
         this.numPortas = numPortas;
     }
